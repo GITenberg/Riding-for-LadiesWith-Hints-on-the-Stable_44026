@@ -1,0 +1,41 @@
+_repo: Riding-for-LadiesWith-Hints-on-the-Stable_44026
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Corbould, A. Chantrey (Alfred Chantrey)
+    aliases:
+    - Corbould, A. C. (Alfred Chantrey)
+    - Corbould, Alfred Chantrey
+    birthdate: 1852
+    deathdate: 1920
+    gutenberg_agent_id: '42527'
+    url: http://www.gutenberg.org/2009/agents/42527
+covers:
+- cover_type: archival
+  image_path: 44026-h/images/cover.jpg
+creator:
+  author:
+    agent_name: O'Donoghue, Power, Mrs.
+    aliases:
+    - Lambert, Nannie
+    - O'Donoghue, Nannie Power
+    - O'Donoghue, Mrs. Power
+    birthdate: 1858
+    gutenberg_agent_id: '42526'
+    url: http://www.gutenberg.org/2009/agents/42526
+description: ''
+gutenberg_issued: '2013-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horsemanship'
+- !lcc 'SF'
+- !lcsh 'Sidesaddle riding'
+- !lcsh 'Women in horse sports'
+title: 'Riding for Ladies: With Hints on the Stable'
+url: http://www.gutenberg.org/ebooks/44026
